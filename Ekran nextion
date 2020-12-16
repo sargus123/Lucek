@@ -1,1 +1,7 @@
+Ekran  nextion  zanim  uruchomisz upewnij się że ma odpowiednio mocne zasilanie 
 
+zasilanie z kompa jest za słabe może przepalić wyświetlacz poprzez adapter podacz dodatkowe zasilanie  (kiedy używasz na stole)
+
+kiedy już jest wpięte przy piecu lepiej podłączyć bezpośrednio zasilanie pod przewody  ekranu niż przejściówki. 
+
+pamiętaj że zawsze musi być połączona masa z arduino
