@@ -36,7 +36,8 @@ Zrobione
 - termometry dallas
 - Układ wielomocy 
 - sterowanie pompami
-- połączenie z domoticz
+- połączenie z domoticz Port zakres portów od 80 - 8099
+- Domoticz ustawienie id domyślnie od 1 do 500 ( myślę że nikt niema więcej urządzeń niż te 500
 - kontrola sprawności termometrów
 - alarmy : 
 -- termometrów
