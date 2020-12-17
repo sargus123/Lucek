@@ -88,7 +88,8 @@ A6      - pomiar pradu podajnika
 GND     - GND
 
 
-detektor przejścia przez 0 sieci (wymagany tylko dla dmuchawy AC):
+detektor przejścia przez 0 sieci (wymagany tylko dla dmuchawy AC): inaczej detektor zera. 
+można wykonać samemu albo gotowy układ kupić razem z triakiem i nie będzie trzeba w triakach wymieniać optotriaka a poprostu z tej płytki podłączyć pod A13 
 arduino - moduł
 +5V     - +5V
 2       - sygnał
