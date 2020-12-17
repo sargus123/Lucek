@@ -23,13 +23,14 @@ przygotowywany do pieca z podajnikiem ślimakowym.
 
 
 na 17.12.2020 w fazie testowej.
+
 do zrobienia :
 - poprawić sterowanie wentylatorem ac
 - zabezpieczenie pomp. (anty stop)
 - czujnik poziomu paliwa
-- podanie początkowego IDX domoticz
 - możliwość zmiany z menu konfiguracji sieci
 - czas wyrzutu materiału ze slimaka po przekroczeniu temp. 
+- sterowanie z poziomu domoticza pompami
 
 
 Zrobione 
