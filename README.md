@@ -44,6 +44,8 @@ Zrobione
 -- Slimaka
 -- błedu odczytu pamięci eeprom
 - nawigacja po menu
+- podanie początkowego IDX domoticz
+- podanie portu Domoticza zakres od 80 - 90 i od 8080-8089
 
 
 
