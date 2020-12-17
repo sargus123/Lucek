@@ -1,0 +1,15 @@
+w domoticz zrobić 11 termometrów   i pokolei nazwać
+ter piec +0
+Powrot +1
+Agregat +2
+Pok Co2 +3
+Wewn +4
+Zewn +5
+Slimak + 6
+Cwu +7
+Spaliny +8
+Poziom paliwa +9
+rezerwowy +10
+
+
+w sterowniku w konfiguracji podać numer idx termometru pieca 
