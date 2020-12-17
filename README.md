@@ -13,13 +13,13 @@ przygotowywany do pieca z podajnikiem ślimakowym.
  - czujnik odległści MAX6675
   
 
-![Strona główna ](.Lucek/Ekran_NEXTION/piec1.jpg)
+!["Strona startowa"](https://github.com/sargus123/Lucek/blob/main/Ekran_NEXTION/piec1.jpg)
 
-![Strona główna ](.Ekran_NEXTION/piec2.jpg)
+!["Strona główna "](https://github.com/sargus123/Lucek/blob/main/Ekran_NEXTION/piec2.jpg)
 
-![Strona główna ](.Ekran_NEXTION/piec3.jpg)
+![Strona główna ](https://github.com/sargus123/Lucek/blob/main/Ekran_NEXTION/piec3.jpg)
 
-![Strona główna ](.Ekran_NEXTION/piec4.jpg)
+![Strona główna ](https://github.com/sargus123/Lucek/blob/main/Ekran_NEXTION/piec4.jpg)
 
 
 na 17.12.2020 w fazie testowej.
