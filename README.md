@@ -26,7 +26,6 @@ na 17.12.2020 w fazie testowej.
 
 do zrobienia :
 - poprawić sterowanie wentylatorem ac
-- zabezpieczenie pomp. (anty stop)
 - czujnik poziomu paliwa
 - możliwość zmiany z menu konfiguracji sieci
 - czas wyrzutu materiału ze slimaka po przekroczeniu temp. 
@@ -47,6 +46,5 @@ Zrobione
 - nawigacja po menu
 - podanie początkowego IDX domoticz
 - podanie portu Domoticza zakres od 80 - 90 i od 8080-8089
-
-
+-- zabezpieczenie pomp. (anty stop) aktywowany o 11:11 codzienni diagnozowane i aktywowane w miarę potrzeb. 
 
