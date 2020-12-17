@@ -6,4 +6,4 @@ ekran Nextion 4.2
 
 ![aa] (https://github.com/sargus123/Lucek/blob/main/Ekran%20NEXTION/piec1.jpg)
 
-![Strona główna ] (Lucek/Ekran NEXTION/piec1.jpg)
+![Strona główna ] (.Ekran_NEXTION/piec1.jpg)
