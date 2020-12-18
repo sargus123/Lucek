@@ -44,7 +44,7 @@ Zrobione
 -- Slimaka
 -- błedu odczytu pamięci eeprom
 - nawigacja po menu
-- podanie początkowego IDX domoticz
+- podanie początkowego IDX domoticz 1 - 255 ( z powodu pamięci eeprom do 255)
 - podanie portu Domoticza zakres od 80 - 90 i od 8080-8089
 -- zabezpieczenie pomp. (anty stop) aktywowany o 11:11 codzienni diagnozowane i aktywowane w miarę potrzeb. 
 
