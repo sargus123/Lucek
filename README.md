@@ -30,13 +30,15 @@ do zrobienia :
 - możliwość zmiany z menu konfiguracji sieci
 - czas wyrzutu materiału ze slimaka po przekroczeniu temp. 
 - sterowanie z poziomu domoticza pompami
+- termometr spalin
+- wykorzystanie opału w palenisku awaryjnym ( odpowiednie wyregulowanie mocy wentylatora w momencie kiedy wykryte zostanie za wysoka temp. w spalinach)
+
 
 
 Zrobione 
 - termometry dallas
 - Układ wielomocy 
-- sterowanie pompami
-- połączenie z domoticz Port zakres portów od 80 - 8099
+- sterowanie pompami wg. temperatury
 - Domoticz ustawienie id domyślnie od 1 do 500 ( myślę że nikt niema więcej urządzeń niż te 500
 - kontrola sprawności termometrów
 - alarmy : 
