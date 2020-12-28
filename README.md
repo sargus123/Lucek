@@ -4,7 +4,7 @@ przygotowywany do pieca z podajnikiem ślimakowym.
 
 # Podzespoły główne:
 - serce - Arduino Mega 
-- ekran Nextion 4.2
+- ekran Nextion 4.3
 - Zegar czasu rzeczywistego z eeprom DS3231
 - Płytka z triakami
 - termometry dallas
@@ -48,5 +48,5 @@ Zrobione
 - nawigacja po menu
 - podanie początkowego IDX domoticz 1 - 255 ( z powodu pamięci eeprom do 255)
 - podanie portu Domoticza zakres od 80 - 90 i od 8080-8089
--- zabezpieczenie pomp. (anty stop) aktywowany o 11:11 codzienni diagnozowane i aktywowane w miarę potrzeb. 
+-- zabezpieczenie pomp. (anty stop) aktywowany o 11:11 codziennie diagnozowane i aktywowane w miarę potrzeb. 
 
