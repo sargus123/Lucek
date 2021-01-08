@@ -15,10 +15,8 @@ Wyświetlacz NeXtion  ( wsad przygotowany dla wyświetlacza 4,1  mogą być mnie
 18 tx - rx
 19 rx - tx
 GND - GND
-zanim będziesz uzywać wyświetlacza warto wlutować kondensator koło wyświetlacza do  vcc i gnd w celu stabilizacji napięcia
+zanim będziesz uzywać wyświetlacza warto wlutować kondensator koło wyświetlacza do  masy i VCC w celu stabilizacji napięcia
 nie uruchamiaj zestawu podpinając tylko pod port usb komputera. uszkodzisz wyświetlacz.  MUSI mieć mocniejsze zewnętrzne zasilanie. 
-
-
 
 czujnik spalin (opcjonalny):
 arduino - moduł z MAX31855K + termopara typ K !!!! UWAGA nie mozna podpinac pod 5V !!!
@@ -66,7 +64,7 @@ moduł przekaźników (do arduino) lub triaków (AVT1679):
 arduino - moduł
 A15     - pompa CWU1 (CWU bruli/ecoal)
 A14     - pompa CWU2 (CWU dodatkowe)
-A13     - dmuchawa AC (sterowanie triakiem MOC3020) jeśli jest zwora pin 23 do 5v jest wyjściem on off a sterowanie układem PWM na pinie 44
+A13     - dmuchawa AC (sterowanie triakiem MOC3020) jeśli jest zwora pin 23 do masy jest wyjściem on/off a sterowanie układem PWM na pinie 44
 A12     - 4D zamykanie
 A11     - 4D otwieranie
 A10     - podajnik
