@@ -3,7 +3,7 @@ Wyprowadzenia arduino mega
 Większość wyprowadzeń jest identyczne jak w Lucjanie (spowodowane tym że używałem go )
 
 
-modul zegar RTC (OBOWIAZKOWY)
+modul zegar RTC razem z pamięcią eeprom (OBOWIAZKOWY)
 arduino - moduł modul zegar RTC z ukladem DS3231
 + 5V - VCC
 20 - SDA
@@ -54,24 +54,26 @@ GND     - GND
 pin 22 podciagnac rezystorem 4k7 lub lepiej 3k3 do +5V, w przypadku problemow z komunikacja 
 (dlugi przewod, >5 czujnikow) mozna zmniejszac go kolejno na 2k7,2k,1.5k,1k az do uzyskania poprawnej komunikacji
 
-36      - wejscie styku bezpotencjalowego (zwierajacego do GND) termostatu pokojowego
+
+
 wentylator AC:
 w AVT1679 wymienic jeden optotriak (biały/kremowy element) na MOC 3020,3021 lub 3022
 lub zmontowac sobie na płytce uniwersalnej 1 kanał podobny do tego w module z optotriakiem podanym wyzej
+albo zamonować układ PWM  YYAC-3S AC 220V
 
 
 moduł przekaźników (do arduino) lub triaków (AVT1679):
 arduino - moduł
 A15     - pompa CWU1 (CWU bruli/ecoal)
 A14     - pompa CWU2 (CWU dodatkowe)
-A13     - dmuchawa AC (sterowanie triakiem MOC3020)
+A13     - dmuchawa AC (sterowanie triakiem MOC3020) jeśli jest zwora pin 23 do 5v jest wyjściem on off a sterowanie układem PWM na pinie 44
 A12     - 4D zamykanie
 A11     - 4D otwieranie
 A10     - podajnik
 A9      - pompa CO
 A8      - pompa CYRKULACJI
 A6      - pomiar pradu podajnika
-13      - Heartbeat (wolno brak polaczenia rs232, szybko - polaczenie OK)
+13      - 
 ...
 24      - podajnik [sygnał odwrócony - stan aktywny niski (0VDC)]
 25      - pompa CO [sygnał odwrócony]
@@ -83,7 +85,9 @@ A6      - pomiar pradu podajnika
 31      - alarm - buzzer
 32      - dmuchawa AC (sterowanie triakiem MOC3020)
 33      - dmuchawa AC (modul low level trigger z G3MB-202PL) [sygnał odwrócony]
-36      - wejscie styku bezpotencjalowego (zwierajacego do GND) termostatu pokojowego
+36      - wejscie styku bezpotencjalowego (zwierajacego do GND) termostatu pokojowego do uruchomienia pompy CO2
+37      -
+44      - Wyjście układu sterowania wentylatorem AC  układ PWM  YYAC-3S AC 220V
 ...
 GND     - GND
 
