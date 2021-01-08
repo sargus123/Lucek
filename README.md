@@ -11,6 +11,7 @@ przygotowywany do pieca z podajnikiem ślimakowym.
  opcjonalnie:
  - Termopara termometr spalin
  - czujnik odległści MAX6675
+ -  PWM  YYAC-3S AC 220V sterowanie wentylatorem AC
   
 
 !["Strona startowa"](https://github.com/sargus123/Lucek/blob/main/Ekran_NEXTION/piec1.jpg)
@@ -25,7 +26,7 @@ przygotowywany do pieca z podajnikiem ślimakowym.
 na 17.12.2020 w fazie testowej.
 
 do zrobienia :
-- poprawić sterowanie wentylatorem ac
+- poprawić sterowanie wentylatorem ac ( w zasadzie można zastąpić układem PWM  YYAC-3S AC 220V )
 - czujnik poziomu paliwa
 - możliwość zmiany z menu konfiguracji sieci
 - czas wyrzutu materiału ze slimaka po przekroczeniu temp. 
@@ -50,5 +51,6 @@ Zrobione
 - podanie portu Domoticza zakres od 80 - 90 i od 8080-8089
 - zawór 4d współpracuje z wyjściem pompy CO2 kiedy pompa jest włączona to steuje jeśli wyączona to zamknie zawór. (czas zamykania 6*4 = 24 sekundy)
 - obniżenie temeratury np. nocnej
+- sterowanie pentylatorem pwm
 -- zabezpieczenie pomp. (anty stop) aktywowany o 11:11 codziennie diagnozowane i aktywowane w miarę potrzeb. 
 
