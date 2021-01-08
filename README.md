@@ -35,18 +35,20 @@ do zrobienia :
 
 
 
+
 Zrobione 
 - termometry dallas
 - Układ wielomocy 
 - sterowanie pompami wg. temperatury
-- Domoticz ustawienie id domyślnie od 1 do 500 ( myślę że nikt niema więcej urządzeń niż te 500
 - kontrola sprawności termometrów
 - alarmy : 
 -- termometrów
 -- Slimaka
--- błedu odczytu pamięci eeprom
+-- błedu odczytu pamięci eeprom (jeśli pusta lub brak zgłosi błąd )
 - nawigacja po menu
-- podanie początkowego IDX domoticz 1 - 255 ( z powodu pamięci eeprom do 255)
+- podanie początkowego IDX Domoticz 1 - 255 ( z powodu pamięci eeprom do 255 można więcej ale czy potrzeba)
 - podanie portu Domoticza zakres od 80 - 90 i od 8080-8089
+- zawór 4d współpracuje z wyjściem pompy CO2 kiedy pompa jest włączona to steuje jeśli wyączona to zamknie zawór. (czas zamykania 6*4 = 24 sekundy)
+- obniżenie temeratury np. nocnej
 -- zabezpieczenie pomp. (anty stop) aktywowany o 11:11 codziennie diagnozowane i aktywowane w miarę potrzeb. 
 
