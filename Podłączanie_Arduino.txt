@@ -40,7 +40,7 @@ w pole R27 modulu wlutowac rezystor 47k
 arduino - moduł z JSN-SR04T-2.0
 +5V     - VCC
 GND     - GND
-RX2     - TX
+17     - TX
 
 
 
