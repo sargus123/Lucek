@@ -10,7 +10,7 @@ arduino - moduł modul zegar RTC z ukladem DS3231
 21 - SCL
 GND - GND
 
-Wyświetlacz NeXtion  ( wsad przygotowany dla wyświetlacza 4,1  mogą być mniejsze i większe ekrany. - ale trzeba zmienić wsad.
+Wyświetlacz NeXtion  ( wsad przygotowany dla wyświetlacza 4,3  mogą być mniejsze i większe ekrany. - ale trzeba zmienić wsad samego ekranu )
 + 5V - VCC
 18 tx - rx
 19 rx - tx
