@@ -1,0 +1,6 @@
+Piec.tft to jest wsad do nextion
+
+wgrać na karte sd
+
+wsadzić do ekranu podłączyć zasilanie 
+po zakończeniu wyłączyć zasilanie i wyjąć kartę . 
